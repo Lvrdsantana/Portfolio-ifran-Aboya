@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ifran-Aboya/static/css/main.c3175924.css",
+    "main.js": "/Portfolio-ifran-Aboya/static/js/main.b419a388.js",
+    "static/media/mock5.png": "/Portfolio-ifran-Aboya/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/mock2.png": "/Portfolio-ifran-Aboya/static/media/mock2.e8ed2c07928dfdc15a79.png",
+    "static/media/mock1.png": "/Portfolio-ifran-Aboya/static/media/mock1.ec1a4d11185151b5f3f2.png",
+    "static/media/self.png": "/Portfolio-ifran-Aboya/static/media/self.221a318b2284653d443b.png",
+    "static/media/mock3.png": "/Portfolio-ifran-Aboya/static/media/mock3.8624cffbb7ae4e742c4c.png",
+    "static/media/mock4.png": "/Portfolio-ifran-Aboya/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
+    "index.html": "/Portfolio-ifran-Aboya/index.html",
+    "main.c3175924.css.map": "/Portfolio-ifran-Aboya/static/css/main.c3175924.css.map",
+    "main.b419a388.js.map": "/Portfolio-ifran-Aboya/static/js/main.b419a388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3175924.css",
+    "static/js/main.b419a388.js"
+  ]
+}
